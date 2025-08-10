@@ -5,7 +5,7 @@ Phishing Awareness Training
 Name: LARAIB KAWNAL  
 ---------------------------------------------------------------------------------------
 
- ## Task Description
+## Task Description
 This task is part of my **CodeAlpha Cyber Security Internship**.  
 The objective was to create a simple and engaging training module to help people:
 - Understand what phishing is.
@@ -15,13 +15,13 @@ The objective was to create a simple and engaging training module to help people
 
 
 
-   ## Contents
+## Contents
 - **Phishing_Awareness_Trainingl_Laraib_Kanwal.pptx** – PowerPoint slides with training content.
 - **Phishing_Awareness_Training.pdf – PDF** version of the presentation (easyAccess)/
   
 
 
-  ## How to Use
+## How to Use
 1. Download and open the PPTX or PDF file.
 2. Go through the slides.
 3. Use the included examples.
